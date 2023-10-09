@@ -77,7 +77,7 @@ https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a4
  Following is the link provided for the folder containing the above images: 
 https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_2
 
-## 5.  Top 5 Interpretability for each of the test dataset
+## 5.Interpretability for top 5 images for each of the test datasets:
 
 ### Test_data_set_2
 
