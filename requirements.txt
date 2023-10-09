@@ -1,0 +1,7 @@
+torch==1.9.0               # PyTorch for deep learning
+torchvision==0.10.0         # PyTorch's library for computer vision tasks
+Pillow==8.3.1               # Python Imaging Library for image processing
+scikit-learn==0.24.2        # Machine learning library for various tasks
+opencv-python==4.5.3.56     # OpenCV for computer vision tasks
+albumentations==1.0.3       # Image augmentation library
+tqdm==4.62.0                # Library for creating progress bars
