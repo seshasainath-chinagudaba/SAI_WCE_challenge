@@ -24,7 +24,7 @@ iou  |0.4505|
 
 ## 2.Top 10 Validation Dataset Images: Classification & Detection with Confidence-Marked Bounding Boxes
 
-Explore the top 10 images from the validation dataset, showcasing our model's classification and detection capabilities. Each image is annotated with confidence-marked bounding boxes, highlighting precise object localizations.
+Following are the top 10 images from the validation dataset which showcase our model's classification and detection capabilities. Each image is annotated with confidence-marked bounding boxes, highlighting precise object localizations.
 
 
 ![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/dd9c3278-4e19-4b40-bc88-b574aa6c1180)
