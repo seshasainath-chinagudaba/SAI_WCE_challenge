@@ -37,7 +37,7 @@ iou  |0.4505|
  Following is the link provided for the folder containing the above images: 
 https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/validation_best_10
 
-## Visualizing Interpretability: Insights from Top 10 Images in Validation Dataset
+## 3. Visualizing Interpretability: Insights from Top 10 Images in Validation Dataset
 ![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7844fc52-1af9-4626-acc4-43f2b4cdfe83)
 ![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/df394dd8-7920-4cab-9a38-2dab282bade0)
 ![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/dbf51b23-23c8-484f-b76a-6ff603648a89)
@@ -49,6 +49,7 @@ https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a4
 ![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/8870bd47-49fb-476b-ba01-1aa514fc7a69)
 ![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7086633f-ea4d-4970-a395-8ab08d7d5dd2)
 
+Following is the link provided for the folder containing the above image:
 https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/a1c3972fd25423f7521a4716b025cdbdd33e1326/images/validation_interpretability
 ## 4. Top 5 images for each of the test datasets :
 
