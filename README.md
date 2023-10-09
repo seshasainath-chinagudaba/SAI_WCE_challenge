@@ -23,32 +23,32 @@ avg.recall  |0.6562|
 iou  |0.4505|
 
 ## 2.Top 10 Validation Dataset Images: Classification & Detection with Confidence-Marked Bounding Boxes
-![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/95beb3f7-5632-4aa4-a484-4a19aef25d9b)
-![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c9821548-0645-423e-916a-5d5405e6f474)
-![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/009beffb-cc2b-4f6a-950a-1eb2ccf60c27)
-![img- (47)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7d85467f-258c-4a33-b607-d121c8168f9d)
-![img- (43)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/8e14ef2e-17bb-4214-ab40-c7a3a8f45a94)
-![img- (42)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/00128118-0c05-4cc2-a3ff-4a82fe31b9f8)
-![img- (35)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0024c145-ccb2-46dd-8138-4bd412eb89de)
-![img- (34)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9b1511b1-1324-4f55-81ca-c6e4a2f83fb6)
-![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7bc630d7-08ff-410d-958a-bca3e5328891)
-![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/34de62d4-a201-47ef-8564-58dbf7f05507) 
+![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/dd9c3278-4e19-4b40-bc88-b574aa6c1180)
+![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0d6dfa20-74c1-4a23-be03-1fa694099537)
+![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/73987d78-6fa8-4531-a676-f58e2ce0c7fa)
+![img- (47)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/56211687-8454-41a4-90c1-7bf9023c5e77)
+![img- (43)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/2785ef55-5ef5-421c-8b56-d0166559cbb4)
+![img- (42)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/91ed6b71-7e09-4b57-b453-ae7581da1476)
+![img- (35)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c5077a91-8965-415c-85ad-7a550c293ce9)
+![img- (34)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/d653ec43-326e-4372-8937-81b14eb24eef)
+![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7a9054e1-c554-4e47-a5cf-250f64997d8e)
+![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/db6d836e-7d6e-4908-9236-f4033c57706e)
 
  Following is the link provided for all the image folder: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/validation_best_10
 
 ## Visualizing Interpretability: Insights from Top 10 Images in Validation Dataset
+![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7844fc52-1af9-4626-acc4-43f2b4cdfe83)
+![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/df394dd8-7920-4cab-9a38-2dab282bade0)
+![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/dbf51b23-23c8-484f-b76a-6ff603648a89)
+![img- (43)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/45987663-6b64-4b28-b570-d2c0874c8dd6)
+![img- (47)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0fafd97e-fc73-4449-9e96-b12f5ffe7ea4)
+![img- (42)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c86c3f5c-d08c-4ed0-aeb1-e696508f731b)
+![img- (35)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/d7b76e84-8183-40b1-a1bf-eb54a3690d75)
+![img- (34)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/1877b011-eed8-41fa-9b5c-41a38a54665b)
+![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/8870bd47-49fb-476b-ba01-1aa514fc7a69)
+![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7086633f-ea4d-4970-a395-8ab08d7d5dd2)
 
-![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/f8ded05e-bf61-42be-966c-076135586681)
-![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/20450df9-fe93-4004-9c08-18d2cc19358f)
-![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9b18d7ce-9296-4d00-8a27-1002590156a2)
-![img- (43)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/4dad132f-2608-4800-8c6c-58ea33fdcc73)
-![img- (47)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/99388b11-111b-45fa-9c18-d8103649c88e)
-![img- (42)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/02573134-19db-4898-9cef-40296aec7d0e)
-![img- (35)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9dbabeae-d0f3-492d-bf96-1e7240e667ae)
-![img- (34)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/be2f1fb9-4c0e-43a4-b2f2-cc9faa1f471c)
-![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/d733470c-da2c-4ce5-86e8-066034a8e37d)
-![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/699206ec-80c0-438f-83e8-6e5284999ea9)
 
 ## 4. Selected best 5 images for both of the test datasets :
 
