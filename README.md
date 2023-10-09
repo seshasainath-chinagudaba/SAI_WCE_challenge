@@ -50,7 +50,7 @@ https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a4
 ![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7086633f-ea4d-4970-a395-8ab08d7d5dd2)
 
 
-## 4. Selected best 5 images for both of the test datasets :
+## 4. Top 5 images for each of the test datasets :
 
 ### Test_data_set_1
 ![A0046](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/2f9327c8-cc2d-482d-a228-1d31d223ff5f)
