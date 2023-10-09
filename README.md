@@ -6,6 +6,22 @@ This repository implements an ensemble learning approach for detecting the bleed
 The codebase encompasses data preprocessing, model architecture definition, training, validation, and testing. By employing an ensemble of deep learning models and utilizing techniques such as majority voting, max voting, and mean voting, our approach aims to provide robust predictions for identifying bleeding portion in WCE images.
 Unleash the power of our bleeding detection model designed for Wireless Capsule Endoscopy (WCE) images. Seamlessly integrated with an ensemble of neural networks, our model accurately identifies bleeding, providing critical insights for medical practitioners. Simply follow our easy-to-use steps and dive into a new era of efficient diagnosis and analysis.
 
+# Results
+## Classification
+Evaluation Metric | Value
+|------------------|------------|
+Accuracy   |0.7745|
+Recall     |0.6560|
+F1-Score   |0.7354|
+## Detection
+Evaluation Metric | Value
+|------------------|------------|
+mAP@0.5   |0.723|
+mAP@0.5-0.95 |0.482|
+avg.precision  |0.7614|
+avg.recall  |0.6562|
+iou  |0.4505|
+
 ## 2.Top 10 Validation Dataset Images: Classification & Detection with Confidence-Marked Bounding Boxes
 ![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/95beb3f7-5632-4aa4-a484-4a19aef25d9b)
 ![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c9821548-0645-423e-916a-5d5405e6f474)
