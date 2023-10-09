@@ -34,7 +34,7 @@ iou  |0.4505|
 ![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/7a9054e1-c554-4e47-a5cf-250f64997d8e)
 ![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/db6d836e-7d6e-4908-9236-f4033c57706e)
 
- Following is the link provided for all the image folder: 
+ Following is the link provided for the folder containing the above images: 
 https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/validation_best_10
 
 ## Visualizing Interpretability: Insights from Top 10 Images in Validation Dataset
@@ -59,7 +59,7 @@ https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a4
 ![A0027](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/cafce554-13ab-4950-8822-8e098a640fed)
 ![A0007](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/1f048cce-0d1b-42e7-a606-225119c30782)
 
- Following is the link provided for all the image folder: 
+ Following is the link provided for the folder containing the above images: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_1
  
 ### Test_data_set_2
@@ -69,7 +69,7 @@ https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40
 ![A0161](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0dd5d9d6-86ba-4ba8-a23f-bf8b4580ea8a)
 ![A0071](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/43a8899e-d89d-44d5-80c1-6a2ed595c51b)
 
- Following is the link provided for all the image folder: 
+ Following is the link provided for the folder containing the above images: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_2
 
 
