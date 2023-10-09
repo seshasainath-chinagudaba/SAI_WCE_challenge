@@ -6,7 +6,7 @@ This repository implements an ensemble learning approach for detecting the bleed
 The codebase encompasses data preprocessing, model architecture definition, training, validation, and testing. By employing an ensemble of deep learning models and utilizing techniques such as majority voting, max voting, and mean voting, our approach aims to provide robust predictions for identifying bleeding portion in WCE images.
 Unleash the power of our bleeding detection model designed for Wireless Capsule Endoscopy (WCE) images. Seamlessly integrated with an ensemble of neural networks, our model accurately identifies bleeding, providing critical insights for medical practitioners. Simply follow our easy-to-use steps and dive into a new era of efficient diagnosis and analysis.
 
-# Results
+# 1. Results
 ## Classification
 Evaluation Metric | Value
 |------------------|------------|
@@ -88,7 +88,7 @@ https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a4
 ![A0034](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61611606/d89e4aa7-ed13-4dd8-be3e-ebb2518ca5d8)
 
 Following is the link for the folder containing the above images:
-
+https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/92c6d81a5e275e36955bb2af4b801e476ea78bda/images/interpretability/Test_data_set_1
 
 ### Test_data_set_2
 
@@ -98,5 +98,5 @@ Following is the link for the folder containing the above images:
 ![A0161](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/fb70512a-394e-45f6-b385-3a534d2430f3)
 ![A0071](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/ee0cbe1e-75eb-46c7-8a77-692ba0994986)
 
-Following is the link for the folder containing the above images:
+Following is the link for the folder containing the above images:https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/92c6d81a5e275e36955bb2af4b801e476ea78bda/images/interpretability/Test_data_set_2
 
