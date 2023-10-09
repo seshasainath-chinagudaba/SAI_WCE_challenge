@@ -33,7 +33,7 @@ Unleash the power of our bleeding detection model designed for Wireless Capsule 
 
  Here is the link provided for all the image folder: https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_1
  
-###Test_data_set_2
+### Test_data_set_2
 
 ![A0446](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9c288d6a-f004-4622-8670-3f1e02db28b0)
 ![A0244](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/a29b6641-6e8b-4f93-a400-3b95d6d4adfc)
