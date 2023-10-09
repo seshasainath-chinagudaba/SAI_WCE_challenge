@@ -1,3 +1,5 @@
+##Classification
+
 torch==1.9.0               # PyTorch for deep learning
 torchvision==0.10.0         # PyTorch's library for computer vision tasks
 Pillow==8.3.1               # Python Imaging Library for image processing
@@ -5,3 +7,17 @@ scikit-learn==0.24.2        # Machine learning library for various tasks
 opencv-python==4.5.3.56     # OpenCV for computer vision tasks
 albumentations==1.0.3       # Image augmentation library
 tqdm==4.62.0                # Library for creating progress bars
+
+##Detection
+
+# Basic dependencies
+wget==3.2               # For downloading files from the internet
+numpy==1.21.2           # Fundamental package for numerical computing with Python
+opencv-python==4.5.3    # Library for computer vision and image processing
+scikit-learn==0.24.2    # Simple and efficient tools for data analysis and modeling
+
+# Dataset splitting and organization
+shutil==1.7.9           # High-level file operations, including moving and copying files
+
+# Ultralytics library for YOLOv8
+ultralytics==0.0.0      # Deep learning library for YOLO (You Only Look Once) models
