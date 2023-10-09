@@ -53,23 +53,21 @@ https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40
 ## 4. Selected best 5 images for both of the test datasets :
 
 ### Test_data_set_1
-
-![A0046](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/2362ddef-8548-4e1d-887b-f10ce105c2ac)
-![A0038](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/ce86b710-133d-4abb-85d5-a8b9ae27ccc9)
-![A0034](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/ea6ad5c9-9db3-40d2-9cbc-fc666ec8effb)
-![A0027](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/2a31658f-c406-448d-a0b1-8e5aefe97a1a)
-![A0007](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/6f220398-d275-4a3c-9f44-c6b4fcc58f42)
+![A0046](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/2f9327c8-cc2d-482d-a228-1d31d223ff5f)
+![A0038](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9a5526b0-43e5-45dc-b4a5-c3872c79a53a)
+![A0034](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/6604cea6-92d6-4e0b-90f7-3b18e76eaf50)
+![A0027](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/cafce554-13ab-4950-8822-8e098a640fed)
+![A0007](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/1f048cce-0d1b-42e7-a606-225119c30782)
 
  Following is the link provided for all the image folder: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_1
  
 ### Test_data_set_2
-
-![A0446](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9c288d6a-f004-4622-8670-3f1e02db28b0)
-![A0244](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/a29b6641-6e8b-4f93-a400-3b95d6d4adfc)
-![A0177](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/8ffe98f4-a18a-4d03-90b5-74a5671d33a6)
-![A0161](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/ad0e8759-2f65-4dfd-bbe5-2cf72d5214e8)
-![A0071](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c46c58d4-5d77-4f8b-b301-01c7d64881ea)
+![A0446](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/c6c81587-c1ee-4226-bb32-504fd77e0acf)
+![A0244](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/29d2cd5d-8570-463b-b04a-c3e545329966)
+![A0177](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/b382b559-242c-4408-9806-01eee2271b7b)
+![A0161](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0dd5d9d6-86ba-4ba8-a23f-bf8b4580ea8a)
+![A0071](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/43a8899e-d89d-44d5-80c1-6a2ed595c51b)
 
  Following is the link provided for all the image folder: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/Test_data_set_2
