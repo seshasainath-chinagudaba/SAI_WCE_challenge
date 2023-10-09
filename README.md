@@ -1,5 +1,10 @@
 # SAI_WCE_challenge
 ## Introduction
+This repository implements an ensemble learning approach for bleeding detection in Wireless Capsule Endoscopy (WCE) images. Leveraging deep learning models, specifically variants of the ResNet architecture, this aims to enhance bleeding detection accuracy in medical imaging.
+
+## Overview
+The codebase encompasses data preprocessing, model architecture definition, training, validation, and testing. By employing an ensemble of deep learning models and utilizing techniques such as majority voting, max voting, and mean voting, our approach aims to provide robust predictions for identifying bleeding in WCE images.
+Unleash the power of our bleeding detection model designed for Wireless Capsule Endoscopy (WCE) images. Seamlessly integrated with an ensemble of neural networks, our model accurately identifies bleeding, providing critical insights for medical practitioners. Simply follow our easy-to-use steps and dive into a new era of efficient diagnosis and analysis.
 
 ## Top 10 Validation Dataset Images: Classification & Detection with Confidence-Marked Bounding Boxes
 ![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/95beb3f7-5632-4aa4-a484-4a19aef25d9b)
