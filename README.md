@@ -20,7 +20,19 @@ Unleash the power of our bleeding detection model designed for Wireless Capsule 
 
  Following is the link provided for all the image folder: 
 https://github.com/seshasainathchinagudaba/SAI_WCE_challenge/tree/ad20bf56223a40b200c4ea1096d0b06710482200/images/validation_best_10
-## screenshots 2
+
+## Visualizing Interpretability: Insights from Top 10 Images in Validation Dataset
+
+![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/f8ded05e-bf61-42be-966c-076135586681)
+![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/20450df9-fe93-4004-9c08-18d2cc19358f)
+![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9b18d7ce-9296-4d00-8a27-1002590156a2)
+![img- (43)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/4dad132f-2608-4800-8c6c-58ea33fdcc73)
+![img- (47)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/99388b11-111b-45fa-9c18-d8103649c88e)
+![img- (42)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/02573134-19db-4898-9cef-40296aec7d0e)
+![img- (35)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/9dbabeae-d0f3-492d-bf96-1e7240e667ae)
+![img- (34)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/be2f1fb9-4c0e-43a4-b2f2-cc9faa1f471c)
+![img- (24)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/d733470c-da2c-4ce5-86e8-066034a8e37d)
+![img- (1)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/699206ec-80c0-438f-83e8-6e5284999ea9)
 
 ## 4. Selected best 5 images for both of the test datasets :
 
