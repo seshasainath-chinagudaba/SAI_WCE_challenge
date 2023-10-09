@@ -23,6 +23,8 @@ avg.recall  |0.6562|
 iou  |0.4505|
 
 ## 2.Top 10 Validation Dataset Images: Classification & Detection with Confidence-Marked Bounding Boxes
+
+Explore the top 10 images from the validation dataset, showcasing our model's classification and detection capabilities. Each image is annotated with confidence-marked bounding boxes, highlighting precise object localizations.
 ![img- (52)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/dd9c3278-4e19-4b40-bc88-b574aa6c1180)
 ![img- (50)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/0d6dfa20-74c1-4a23-be03-1fa694099537)
 ![img- (48)](https://github.com/seshasainath-chinagudaba/SAI_WCE_challenge/assets/61778966/73987d78-6fa8-4531-a676-f58e2ce0c7fa)
